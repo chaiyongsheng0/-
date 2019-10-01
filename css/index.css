@@ -6,7 +6,7 @@ body {
     background-image: url('../img/topic_bg2.jpg');
     background-repeat: no-repeat !important;
     background-position: top center !important;
-    background-size: 100%;
+    background-size: 1350px,100%;
     ;
 }
 .whiteBG{
@@ -107,6 +107,8 @@ border-radius: 20px;
     background-color: #bd070b;
     color: #fff;
     overflow: hidden;
+    width: 1350px;
+    margin: 0 auto;
 }
 
 .copyRight {
